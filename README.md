@@ -1,16 +1,19 @@
-## Hi there 👋
+Jacob Chalmers
+===============================
 
-<!--
-**chalmejd-TEAM/chalmejd-TEAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Test and Development Engineer
+-----------------------------
 
-Here are some ideas to get you started:
+Test and Development Engineer experienced in designing and executing tests to ensure quality and performance standards are met. Skilled at analyzing data and implementing improvements, with a focus on collaboration and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+                    
+
+<a href="https://github.com/chalmejd-TEAM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalmejd-TEAM&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/chalmejd-TEAM/Dewesoft-Analyze" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chalmejd-TEAM&repo=Dewesoft-Analyze&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/chalmejd-TEAM/Smart-Brain" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chalmejd-TEAM&repo=Smart-Brain&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
